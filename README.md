@@ -24,11 +24,6 @@ washingtion.csv
 chicago.csv
 .gitignore
 
-### Credits
-Credits to udacity for the template and I then developed the project based on the template provided by the course. 
-=======
-Files used:
-- Finished_Project.py
 
 
 ### Credits
