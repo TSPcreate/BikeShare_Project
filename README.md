@@ -18,7 +18,6 @@ Bikeshare:
  Feel free to checkout the program if needed
 
 ### Files used
-<<<<<<< HEAD
 Finished_Project.py
 new_york_city.csv
 washingtion.csv
@@ -34,5 +33,3 @@ Files used:
 
 ### Credits
 Credits to myself and udacity for providing the template.
-
->>>>>>> refactoring
