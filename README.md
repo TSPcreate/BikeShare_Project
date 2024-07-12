@@ -1,8 +1,10 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date: 12/07/24 
+Date of the creation of this README
 
 ### Bikeshare Project
+Name of the python project
 
 ### Description
 This bikeshare project allows the user to analyse the data given from 3 different cities: Chicago, New York and washington. The program allows the user to filter the bikshare data by city, month and day of week. It will then calculate certain metrixes that will then be displayed as the output.
@@ -13,6 +15,8 @@ Bikeshare:
 - Calculate metixes such as mean, popularity etc
 - Present raw data at the end
 
+ Feel free to checkout the program if needed
+
 ### Files used
 Finished_Project.py
 new_york_city.csv
@@ -21,4 +25,4 @@ chicago.csv
 .gitignore
 
 ### Credits
-Credits to udacity for the template and I then developed the project based on the template provided by the course.
+Credits to udacity for the template and I then developed the project based on the template provided by the course. 
