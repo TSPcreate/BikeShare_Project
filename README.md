@@ -4,7 +4,6 @@
 Date of the creation of this README
 
 ### Bikeshare Project
-Name of the python project
 
 ### Description
 This bikeshare project allows the user to analyse the data given from 3 different cities: Chicago, New York and washington. The program allows the user to filter the bikshare data by city, month and day of week. It will then calculate certain metrixes that will then be displayed as the output.
